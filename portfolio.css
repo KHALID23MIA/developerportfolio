@@ -198,3 +198,174 @@ main section p.description {
     font-weight: 700;
     color: #474747;
 }
+
+/* .................what i do ........... */
+
+.what-do {
+    margin-top: 130px;
+    padding: 0 70px;
+    margin-bottom: 50px;
+}
+
+/* ..................skills section......... */
+.skills {
+    display: flex;
+    gap: 24px;
+}
+
+section.skills>div {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    width: 267px;
+    height: 377px;
+    padding: 30px;
+
+}
+
+section.skills>div img {
+    margin-top: 30px;
+}
+
+.skill-title {
+    margin-top: 30px;
+    font-weight: 700;
+}
+
+.skill-description {
+    /* text-align: justify; */
+    color: #757575;
+    margin-top: 30px;
+    width: 180px;
+
+}
+
+/* ........A summary of My Resume......... */
+.summary-title {
+    margin-top: 130px;
+    margin-bottom: 115px;
+
+}
+
+.summary {
+    display: flex;
+    justify-content: space-around;
+}
+
+.title {
+
+    font-weight: 700;
+    font-size: 30px;
+
+
+
+    color: #474747;
+
+}
+
+.edu-details,
+.exp-details {
+    width: 522px;
+    height: 175px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+section.summary>section>div>p {
+    width: 511px;
+    height: 84px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    margin-top: 20px;
+}
+
+section.summary>section>div>h3 {
+
+    font-weight: 700;
+    color: #474747;
+
+}
+
+section.summary>section>div>h4 {
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+}
+
+.download {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 113px;
+
+}
+
+/* ..........connect...........  */
+.connect {
+    display: flex;
+
+    height: 780px;
+
+    background: #FFF8F3;
+}
+
+.connect section {
+    width: 50%;
+}
+
+.cnt-place {
+    margin-left: 200px;
+}
+
+.feedback {
+    margin-left: 200px;
+}
+
+.connect section>h3 {
+
+    width: 305px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: left;
+    color: #181818;
+    margin-top: 130px;
+
+}
+
+.connect section>div {
+    margin-top: 30px;
+    width: 120px;
+    height: 24px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.connect section>p {
+    width: 562px;
+    height: 56px;
+
+    font-size: 16px;
+    color: #474747;
+    margin-top: 20px;
+}
+
+form {
+
+
+    margin-top: 28px;
+}
+
+form input {
+    width: 461px;
+    height: 64px;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+.connect section form>.massage {
+    width: 461px;
+    height: 180px;
+}
