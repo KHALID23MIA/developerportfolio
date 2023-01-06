@@ -319,6 +319,10 @@ section.summary>section>div>h4 {
     margin-left: 200px;
 }
 
+.cnt-place div a {
+    text-decoration: none;
+}
+
 .feedback {
     margin-left: 200px;
 }
